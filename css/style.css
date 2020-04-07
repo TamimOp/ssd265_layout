@@ -1,0 +1,53 @@
+body{margin: 0px}
+header{
+    background: #e3ecee;
+    color: black;
+    font-size: 15px;
+    padding-top: 15px;
+}
+.layout{
+	width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+.logo{
+
+float: left;
+
+width: 100px;
+
+height: auto;
+}
+nav{}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+    float: left;
+    padding-right: 10px;
+}
+a{
+    color: #4f8695;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-right: 10px;
+}
+a:hover{
+	color: #ffc311;
+}
+article{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 40px;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: lightsalmon;
+}
+p{
+    font-size: 20px;
+    line-height: 1.3;
+}
